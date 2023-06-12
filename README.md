@@ -20,7 +20,7 @@
   <img align="center" alt="Breno-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img align="center" alt="Breno-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Breno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Breno-Pic" height="150" style="border-radius:20px;" src="https://raw.githubusercontent.com/BrenoItalo16/assets/main/profile.jpg">
+  <img align="right" alt="Breno-Pic" height="150" style="border-radius:20px;" src="https://raw.githubusercontent.com/BrenoItalo16/BrenoItalo16/main/.github/workflows/dart_flutter.png">
 </div><br>
  
 <div>
