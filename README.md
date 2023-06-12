@@ -1,10 +1,9 @@
-### Olá👋 Sou Breno Italo, desenvolvedor Mobile e Web com Dart/Flutter
+### Hi👋 I am Breno Italo - Flutter developer
 
 
-- 🔭 Estou atualmente desenvolvendo o meu Website!
-- 🌱 Estou cursando Licenciatura em Informática
-- 🤔 Preciso de ajuda para conseguir jobs
-- 📫 Contate-me no e-mail: contato@brenoitalo.com
+- 🔭 I am actualy working on a mobile app no named yet!
+- 🌱 I am coursing degree in informatics.
+- 📫 Contact-me by e-mail: contato@brenoitalo.com
 
 <div align="center">
   <a href="https://github.com/BrenoItalo16">
