@@ -1,7 +1,7 @@
 ### Hi👋 I am Breno Italo - Flutter developer
 
 
-- 🔭 I am actualy working on a mobile app no named yet!
+- 🔭 I am actualy working on a mobile Scheduling app!
 - 🌱 I am coursing degree in informatics.
 - 📫 Contact-me by e-mail: contato@brenoitalo.com
 
