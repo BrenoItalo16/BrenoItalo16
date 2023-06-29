@@ -20,7 +20,7 @@
 
 - 🔥 I like to draw, sing, play soccer and play Call of Duty.
  
-- 📄 Actually learn Serverpo.
+- 📄 Actually learn Serverpod.
 
 </p>
 
