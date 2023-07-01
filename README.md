@@ -6,7 +6,7 @@
 
 <p>
   
-- 🔭 I am actualy working on a mobile Scheduling app and my own app!
+- 🔭 I am actually working on a mobile Scheduling app and my own app!
   
 - 🌱 I am coursing degree in informatics.
    
@@ -20,7 +20,7 @@
 
 - 🔥 I like to draw, sing, play soccer and play Call of Duty.
  
-- 📄 Actually learn Serverpod.
+- 📄 Actually learning Serverpod(a Dart Backend).
 
 </p>
 
