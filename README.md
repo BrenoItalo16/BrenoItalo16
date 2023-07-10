@@ -10,7 +10,7 @@
   
 - 🌱 I am coursing degree in informatics.
    
-- 📫 Contact-me by e-mail: contato@brenoitalo.com
+- 📫 Contact-me by e-mail: brenoitalo.dev@gmail.com
 
 - 👨‍💻 Flutter Developer focused on helping people.
 
@@ -38,7 +38,7 @@
 
   [![Website Badge](https://img.shields.io/badge/-brenoitalo.com-A946EB?style=flat&logo=Google-Chrome&logoColor=white&link=https://brenoitalo.com/)](https://brenoitalo.com/)
   [![Linkedin Badge](https://img.shields.io/badge/-Breno%20Italo-A946EB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoitalo16)](https://www.linkedin.com/in/brenoitalo16)
-  [![Gmail Badge](https://img.shields.io/badge/-contato@brenoitalo.com-A946EB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@brenoitalo.com)](mailto:contato@brenoitalo.com)
+  [![Gmail Badge](https://img.shields.io/badge/-contato@brenoitalo.com-A946EB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenoitalo.dev@gmail.com)](mailto:brenoitalo.dev@gmail.com)
   [![Stack OverFlow Badge](https://img.shields.io/badge/Stack_Overflow-A946EB?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13096514/felipe-sales)](https://stackoverflow.com/users/13096514/felipe-sales)
   [![Instagram Badge](https://img.shields.io/badge/-Breno%20Italo-A946EB?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/brenoitalo16)](https://www.instagram.com/brenoitalo16)
   [![Twitter Badge](https://img.shields.io/badge/-Breno%20Italo-A946EB?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/brenoitalo_16)](https://www.twitter.com/brenoitalo_16)
