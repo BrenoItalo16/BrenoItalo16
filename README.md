@@ -6,7 +6,7 @@
 
 <p>
   
-- 🔭 I am actually working on a mobile Scheduling app and my own app!
+- 🔭 I am actually working on a mobile Scheduling app and my own app.
   
 - 🌱 I am coursing degree in informatics.
    
