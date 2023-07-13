@@ -9,18 +9,16 @@
 - 🔭 I am actually working on a mobile Scheduling app and my own app.
   
 - 🌱 I am coursing degree in informatics.
-   
-- 📫 Contact-me by e-mail: brenoitalo.dev@gmail.com
 
 - 👨‍💻 Flutter Developer focused on helping people.
 
 - 🙏 I’m gospel.
- 
-- 💬 Ask me about everything, I always enjoy helping people.
 
 - 🔥 I like to draw, sing, play soccer and play Call of Duty.
  
 - 📄 Actually learning Serverpod(a Dart Backend).
+   
+- 📫 Contact-me by e-mail: brenoitalo.dev@gmail.com
 
 </p>
 
