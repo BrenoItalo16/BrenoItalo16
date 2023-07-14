@@ -16,6 +16,8 @@
 
 - 🔥 I like to draw, sing, play soccer and play Call of Duty.
  
+- ✍️ Cartoon and motion with rive.app.
+ 
 - 📄 Actually learning Serverpod(a Dart Backend).
    
 - 📫 Contact-me by e-mail: brenoitalo.dev@gmail.com
