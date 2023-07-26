@@ -18,7 +18,7 @@
  
 - ✍️ Cartoon and motion with rive.app.
  
-- 📄 Actually learning Serverpod(a Dart Backend).
+- 📄 Actually learning a little about cloud in Escola da nuvem.
    
 - 📫 Contact-me by e-mail: brenoitalo.dev@gmail.com
 
