@@ -18,7 +18,7 @@
  
 - ✍️ Cartoon and motion with rive.app.
  
-- 📄 Actually learning a little about cloud in Escola da nuvem.
+- 📄 Actually learning a little about Cloud AWS in Escola da nuvem.
    
 - 📫 Contact-me by e-mail: brenoitalo.dev@gmail.com
 
