@@ -1,12 +1,31 @@
-### Hi👋 I am Breno Italo - Flutter developer
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrenoItalo16&color=405DE6" alt="Profile views" />
+<a href="https://github.com/JoaoBatistaJr/JoaoBatistaJr/blob/master/README-en.md"><img width="25" height="25" align="right" src="https://img.icons8.com/color/25/usa.png" alt="usa"/>
+</p> -->
+<p align="center" >
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+sans&size=26&duration=3000&pause=300&color=A946EB&center=true&vCenter=true&width=460&lines=Flutter%20developer;Prototyping%20with%20Figma;UI/UX%20Expert" alt="Typing SVG" /></a>
+</p>
 
-<h3>Welcome to my github profile.</h3>
+<div align="center">
+
+  [![Linkedin Badge](https://img.shields.io/badge/-Breno%20Italo-A946EB?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoitalo16)](https://www.linkedin.com/in/brenoitalo16)
+  [![Gmail Badge](https://img.shields.io/badge/-contato@brenoitalo.com-A946EB?style=flat&logo=Gmail&logoColor=white&link=mailto:brenoitalo.dev@gmail.com)](mailto:brenoitalo.dev@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/-Breno%20Italo-A946EB?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brenoitalo16)](https://www.instagram.com/brenoitalo16)
+
+</div>
+
+<div>
+<!--   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px> </picture> -->
+</div>
+
+<br>
+
+<h3>Hi, I am Breno! Welcome to my github profile.</h3>
 
 <img height="180em" align="right" src="https://raw.githubusercontent.com/BrenoItalo16/BrenoItalo16/main/.github/workflows/dart_whoisdash.png"/>
 
 <p>
   
-- 🔭 I am actually working on a mobile Scheduling app and my own app.
+- 🔭 I am actually working on a mobile Scheduling app.
   
 - 🌱 I am coursing degree in informatics.
 
@@ -19,8 +38,6 @@
 - ✍️ Cartoon and motion with rive.app.
  
 - 📄 Actually learning a little about Cloud AWS in Escola da nuvem.
-   
-- 📫 Contact-me by e-mail: brenoitalo.dev@gmail.com
 
 </p>
 
@@ -30,26 +47,12 @@
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BrenoItalo16&show_icons=true&theme=dracula"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoItalo16&theme=dracula"/>
-<br>
+<br><br>
 
 </div>
 
-<div align="center">
-
-  [![Website Badge](https://img.shields.io/badge/-brenoitalo.com-A946EB?style=flat&logo=Google-Chrome&logoColor=white&link=https://brenoitalo.com/)](https://brenoitalo.com/)
-  [![Linkedin Badge](https://img.shields.io/badge/-Breno%20Italo-A946EB?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoitalo16)](https://www.linkedin.com/in/brenoitalo16)
-  [![Gmail Badge](https://img.shields.io/badge/-contato@brenoitalo.com-A946EB?style=flat&logo=Gmail&logoColor=white&link=mailto:brenoitalo.dev@gmail.com)](mailto:brenoitalo.dev@gmail.com)
-  [![Stack OverFlow Badge](https://img.shields.io/badge/Stack_Overflow-A946EB?style=flat&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13096514/felipe-sales)](https://stackoverflow.com/users/13096514/felipe-sales)
-  [![Instagram Badge](https://img.shields.io/badge/-Breno%20Italo-A946EB?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brenoitalo16)](https://www.instagram.com/brenoitalo16)
-  [![Twitter Badge](https://img.shields.io/badge/-Breno%20Italo-A946EB?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/brenoitalo_16)](https://www.twitter.com/brenoitalo_16)
-
-
-</div>
-
----
- 
-<div>
-  
-  ![Snake animation](https://github.com/BrenoItalo16/BrenoItalo16/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+ <p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,aws,gcp,mongodb,figma,git,regex,blender,androidstudio,vscode" />
+   </a>
+ </p>
