@@ -7,9 +7,9 @@
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Breno%20Italo-A946EB?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoitalo16)](https://www.linkedin.com/in/brenoitalo16)
+  [![Linkedin Badge](https://img.shields.io/badge/-brenoitalo16-A946EB?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoitalo16)](https://www.linkedin.com/in/brenoitalo16)
   [![Gmail Badge](https://img.shields.io/badge/-contato@brenoitalo.com-A946EB?style=flat&logo=Gmail&logoColor=white&link=mailto:brenoitalo.dev@gmail.com)](mailto:brenoitalo.dev@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/-Breno%20Italo-A946EB?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brenoitalo16)](https://www.instagram.com/brenoitalo16)
+  [![Instagram Badge](https://img.shields.io/badge/-brenoitalo16-A946EB?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brenoitalo16)](https://www.instagram.com/brenoitalo16)
 
 </div>
 
