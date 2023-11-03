@@ -27,17 +27,17 @@
   
 - 🔭 I am actually working on a mobile Scheduling app.
   
-- 🌱 I am coursing degree in informatics.
+- 🌱 I am coursing Software Engineering.
 
 - 👨‍💻 Flutter Developer focused on helping people.
 
-- 🙏 I’m gospel.
-
 - 🔥 I like to draw, sing, play soccer and play Call of Duty.
  
-- ✍️ Cartoon and motion with rive.app.
+- ✍️ UX Designer  with Figma.
  
-- 📄 Actually learning a little about Cloud AWS in Escola da nuvem.
+- 📄 Actually learning a little about Kotlin.
+
+- 🙏 "Jesus is the way".
 
 </p>
 
@@ -53,6 +53,6 @@
 
  <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,aws,gcp,figma,git,regex,blender,javascript,androidstudio,vscode" />
+     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,aws,gcp,figma,git,regex,blender,javascript,androidstudio,vscode" />
    </a>
  </p>
