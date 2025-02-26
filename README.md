@@ -53,6 +53,6 @@
 
  <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,aws,gcp,figma,git,regex,blender,javascript,androidstudio,vscode" />
+     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,go,aws,gcp,figma,git,regex,blender,javascript,androidstudio,vscode" />
    </a>
  </p>
